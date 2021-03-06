@@ -1,5 +1,0 @@
-﻿  test.c
-C:\Users\93983\source\repos\一个数组中只有两个数字是出现一次\test.c(23,26): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
-C:\Users\93983\source\repos\一个数组中只有两个数字是出现一次\test.c(28,29): warning C4554: “&”: 检查运算符优先级是否存在的可能的错误；使用括号阐明优先级
-C:\Users\93983\source\repos\一个数组中只有两个数字是出现一次\test.c(43,2): warning C4098: “main”:“void”函数返回值
-  一个数组中只有两个数字是出现一次.vcxproj -> C:\Users\93983\source\repos\一个数组中只有两个数字是出现一次\Debug\一个数组中只有两个数字是出现一次.exe

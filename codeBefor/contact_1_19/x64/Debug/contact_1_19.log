@@ -1,5 +1,0 @@
-﻿  test.c
-test.obj : error LNK2019: 无法解析的外部符号 InitContact，函数 main 中引用了该符号
-test.obj : error LNK2019: 无法解析的外部符号 AddContact，函数 main 中引用了该符号
-test.obj : error LNK2019: 无法解析的外部符号 ShowContact，函数 main 中引用了该符号
-C:\Users\93983\source\repos\contact_1_19\x64\Debug\contact_1_19.exe : fatal error LNK1120: 3 个无法解析的外部命令

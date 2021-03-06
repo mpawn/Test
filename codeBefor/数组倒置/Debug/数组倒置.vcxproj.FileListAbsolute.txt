@@ -1,2 +1,0 @@
-C:\Users\93983\source\repos\数组倒置\Debug\数组倒置.exe
-C:\Users\93983\source\repos\数组倒置\Debug\数组倒置.pdb

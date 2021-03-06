@@ -1,6 +1,0 @@
-﻿  test.c
-C:\Users\93983\source\repos\test\test.c(15,20): warning C4018: “<=”: 有符号/无符号不匹配
-C:\Users\93983\source\repos\test\test.c(27,10): warning C4477: “printf”: 格式字符串“%d”需要类型“int”的参数，但可变参数 1 拥有了类型“__int64”
-C:\Users\93983\source\repos\test\test.c(27,10): message : 请考虑在格式字符串中使用“%lld”
-C:\Users\93983\source\repos\test\test.c(27,10): message : 请考虑在格式字符串中使用“%I64d”
-  test.vcxproj -> C:\Users\93983\source\repos\test\Debug\test.exe

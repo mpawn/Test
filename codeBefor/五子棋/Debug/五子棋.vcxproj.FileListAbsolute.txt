@@ -1,2 +1,0 @@
-C:\Users\93983\source\repos\五子棋\Debug\五子棋.exe
-C:\Users\93983\source\repos\五子棋\Debug\五子棋.pdb

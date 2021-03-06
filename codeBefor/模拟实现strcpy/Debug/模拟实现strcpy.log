@@ -1,3 +1,0 @@
-﻿  test.c
-C:\Users\93983\source\repos\模拟实现strcpy\test.c(20,11): warning C4013: “strcpy”未定义；假设外部返回 int
-  模拟实现strcpy.vcxproj -> C:\Users\93983\source\repos\模拟实现strcpy\Debug\模拟实现strcpy.exe

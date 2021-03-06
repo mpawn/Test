@@ -1,2 +1,0 @@
-C:\Users\93983\source\repos\逆序\Debug\逆序.exe
-C:\Users\93983\source\repos\逆序\Debug\逆序.pdb

@@ -1,2 +1,0 @@
-C:\Users\93983\source\repos\打印二进制的奇数位序列，偶数位序列\Debug\打印二进制的奇数位序列，偶数位序列.exe
-C:\Users\93983\source\repos\打印二进制的奇数位序列，偶数位序列\Debug\打印二进制的奇数位序列，偶数位序列.pdb

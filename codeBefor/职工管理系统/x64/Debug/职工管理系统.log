@@ -1,9 +1,0 @@
-﻿  boss.cpp
-  employee.cpp
-  manager.cpp
-  workerManager.cpp
-C:\Users\93983\source\repos\职工管理系统\workerManager.cpp(377,9): warning C4102: “case1”: 未引用的标签
-C:\Users\93983\source\repos\职工管理系统\workerManager.cpp(380,9): warning C4102: “case2”: 未引用的标签
-  职工管理系统.cpp
-  正在生成代码...
-  职工管理系统.vcxproj -> C:\Users\93983\source\repos\职工管理系统\x64\Debug\职工管理系统.exe
