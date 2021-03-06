@@ -1,0 +1,2 @@
+C:\Users\93983\source\repos\求两个数的平均值\Debug\求两个数的平均值.exe
+C:\Users\93983\source\repos\求两个数的平均值\Debug\求两个数的平均值.pdb

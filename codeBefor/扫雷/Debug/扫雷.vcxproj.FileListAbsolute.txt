@@ -1,0 +1,2 @@
+C:\Users\93983\source\repos\扫雷\Debug\扫雷.exe
+C:\Users\93983\source\repos\扫雷\Debug\扫雷.pdb

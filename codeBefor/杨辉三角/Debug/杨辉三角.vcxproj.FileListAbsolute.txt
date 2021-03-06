@@ -1,0 +1,2 @@
+C:\Users\93983\source\repos\杨辉三角\Debug\杨辉三角.exe
+C:\Users\93983\source\repos\杨辉三角\Debug\杨辉三角.pdb

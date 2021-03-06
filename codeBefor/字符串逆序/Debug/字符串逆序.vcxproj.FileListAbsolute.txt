@@ -1,0 +1,2 @@
+C:\Users\93983\source\repos\字符串逆序\Debug\字符串逆序.exe
+C:\Users\93983\source\repos\字符串逆序\Debug\字符串逆序.pdb

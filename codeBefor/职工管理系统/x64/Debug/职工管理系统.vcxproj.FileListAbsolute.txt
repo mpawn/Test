@@ -1,0 +1,2 @@
+C:\Users\93983\source\repos\职工管理系统\x64\Debug\职工管理系统.exe
+C:\Users\93983\source\repos\职工管理系统\x64\Debug\职工管理系统.pdb
